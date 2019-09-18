@@ -54,7 +54,7 @@ b=b[:-1]
 password = base6(b)
 
 domain=jy.readline()
-domain = operator('domain')
+domain = operator(domain)
 
 data = {'username':username,'domain':domain,'password':password,'enablemacauth':'0'}
 try:
