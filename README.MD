@@ -2,19 +2,18 @@
 ====
 需要Python3 requests库支持
 ----
-Linux:
-CentOS:
-`sudo yum -y install python3`
-`sudo pip3 install requests`
-RHT:
-`sudo apt-get -y install python3`
-`sudo pip3 install requests`
-MACOS:
-`sudo brew install python3`
-`sudo pip3 install requests`
-Windows:
-前往[python](https://www.python.org/downloads/windows/)官网下载安装Python3
-CMD输入`pip install requests`
+CentOS:<br>
+`sudo yum -y install python3`<br>
+`sudo pip3 install requests`<br>
+RHT:<br>
+`sudo apt-get -y install python3`<br>
+`sudo pip3 install requests`<br>
+MACOS:<br>
+`sudo brew install python3`<br>
+`sudo pip3 install requests`<br>
+Windows:<br>
+前往[python](https://www.python.org/downloads/windows/)官网下载安装Python3<br>
+CMD输入`pip install requests`<br>
 
 使用方法:
 ----
